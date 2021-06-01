@@ -1,0 +1,52 @@
+.dark-section {
+  background-color: #184d47;
+  color: #fad586;
+  text-align: center;
+  padding: 4rem 8rem;
+}
+
+.light-section {
+  background-color: #96bb7c;
+  color: #c64756;
+  text-align: center;
+  padding: 4rem 8rem;
+}
+
+.title-image {
+  width: 70%;
+}
+
+.row.title-row {
+  margin-top: 4rem;
+}
+
+.title-btn {
+  margin: 3rem 1rem;
+}
+
+.col-lg-4.feature-col {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  padding-left: 4rem;
+  padding-right: 4rem;
+}
+
+.feature-icon{
+  margin-bottom: 1rem;
+}
+
+.portfolios-text {
+  margin-bottom: 1rem;
+}
+
+.portfolios-image {
+  height: 30rem;
+}
+
+.portfolios-div {
+  margin-bottom: 4rem
+}
+
+.brand.navbar-brand {
+  font-size: 5rem;
+}
